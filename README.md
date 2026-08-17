@@ -57,7 +57,7 @@
 <h3 align="center"><big>What I've been building.</big></h3>
 
 <p align="center">
-  <a href="https://makroweb.vercel.app"><img src="./assets/makro-card-light.svg#gh-light-mode-only" width="49%" alt="Makro — AI nutrition tracker"></a><img src="./assets/card-gap.svg#gh-light-mode-only" width="2%" alt=""><a href="https://spekk.app"><img src="./assets/spek-card-light.svg#gh-light-mode-only" width="49%" alt="Spek — skill-based challenges"></a><a href="https://makroweb.vercel.app"><img src="./assets/makro-card-dark.svg#gh-dark-mode-only" width="49%" alt="Makro — AI nutrition tracker"></a><img src="./assets/card-gap.svg#gh-dark-mode-only" width="2%" alt=""><a href="https://spekk.app"><img src="./assets/spek-card-dark.svg#gh-dark-mode-only" width="49%" alt="Spek — skill-based challenges"></a>
+  <a href="https://makroweb.vercel.app#gh-light-mode-only"><img src="./assets/makro-card-light.svg#gh-light-mode-only" width="49%" alt="Makro — AI nutrition tracker"></a><img src="./assets/card-gap.svg#gh-light-mode-only" width="2%" alt=""><a href="https://spekk.app#gh-light-mode-only"><img src="./assets/spek-card-light.svg#gh-light-mode-only" width="49%" alt="Spek — skill-based challenges"></a><a href="https://makroweb.vercel.app#gh-dark-mode-only"><img src="./assets/makro-card-dark.svg#gh-dark-mode-only" width="49%" alt="Makro — AI nutrition tracker"></a><img src="./assets/card-gap.svg#gh-dark-mode-only" width="2%" alt=""><a href="https://spekk.app#gh-dark-mode-only"><img src="./assets/spek-card-dark.svg#gh-dark-mode-only" width="49%" alt="Spek — skill-based challenges"></a>
 </p>
 
 <a id="connect"></a>
