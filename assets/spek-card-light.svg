@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="294" height="110" viewBox="0 0 588 220" role="img" aria-labelledby="title desc">
+  <title id="title">Spek — skill-based challenges</title>
+  <desc id="desc">Answer questions on topics you know and compete against other players.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F7F7F9"/>
+      <stop offset="1" stop-color="#E7E7EC"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="588" height="220" rx="20" fill="url(#card)"/>
+  <image x="40" y="10" width="40" height="48" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0MCA0OCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeT0iNCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjMjU2M0VCIi8+CjxyZWN0IG9wYWNpdHk9IjAuNiIgeD0iMjAiIHk9IjQiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzI1NjNFQiIvPgo8cmVjdCBvcGFjaXR5PSIwLjYiIHg9IjEwIiB5PSIxNCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjMjU2M0VCIi8+CjxyZWN0IG9wYWNpdHk9IjAuNDUiIHg9IjIwIiB5PSIxNCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjMjU2M0VCIi8+CjxyZWN0IG9wYWNpdHk9IjAuMyIgeD0iMzAiIHk9IjE0IiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiMyNTYzRUIiLz4KPHJlY3Qgb3BhY2l0eT0iMC42IiB5PSIyNCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjMjU2M0VCIi8+CjxyZWN0IG9wYWNpdHk9IjAuNDUiIHg9IjEwIiB5PSIyNCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjMjU2M0VCIi8+CjxyZWN0IG9wYWNpdHk9IjAuMyIgeD0iMjAiIHk9IjI0IiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiMyNTYzRUIiLz4KPHJlY3Qgb3BhY2l0eT0iMC4xNSIgeD0iMzAiIHk9IjI0IiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiMyNTYzRUIiLz4KPHJlY3Qgb3BhY2l0eT0iMC4zIiB4PSIxMCIgeT0iMzQiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzI1NjNFQiIvPgo8cmVjdCBvcGFjaXR5PSIwLjE1IiB4PSIyMCIgeT0iMzQiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzI1NjNFQiIvPgo8L3N2Zz4K"/>
+  <text x="96" y="53" fill="#1D1D1F" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="32" font-weight="750">Spek</text>
+  <g transform="translate(544 31)" fill="none" stroke="#6E6E73" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1 17 17 1"/>
+    <path d="M6 1h11v11"/>
+  </g>
+  <text x="34" y="104" fill="#515154" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18">
+    <tspan fill="#1D1D1F" font-weight="700">Skill-based challenges.</tspan><tspan> Answer questions on</tspan>
+    <tspan x="34" dy="25">topics you know and compete against other players.</tspan>
+  </text>
+</svg>
