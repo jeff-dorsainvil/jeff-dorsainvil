@@ -69,16 +69,8 @@
 <h3 align="center"><big>Let's build something people return to.</big></h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeff-dorsainvil"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin-card-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/linkedin-card-light.svg">
-    <img src="./assets/linkedin-card-light.svg" width="300" alt="Connect with Jeff Dorsainvil on LinkedIn">
-  </picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:joedor7@gmail.com"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/email-card-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/email-card-light.svg">
-    <img src="./assets/email-card-light.svg" width="300" alt="Email Jeff Dorsainvil">
-  </picture></a>
+  <a href="https://www.linkedin.com/in/jeff-dorsainvil"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin-card-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/linkedin-card-light.svg"><img src="./assets/linkedin-card-light.svg" width="300" alt="Connect with Jeff Dorsainvil on LinkedIn"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:joedor7@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/email-card-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/email-card-light.svg"><img src="./assets/email-card-light.svg" width="300" alt="Email Jeff Dorsainvil"></picture></a>
 </p>
 
 <p align="center">Open to <strong>Product Engineer</strong> and <strong>Full-Stack TypeScript Engineer</strong> opportunities.</p>
