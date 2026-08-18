@@ -26,16 +26,6 @@
 
 <br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/approach-grid-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/approach-grid-light.svg">
-    <img src="./assets/approach-grid-light.svg" width="100%" alt="A user-first approach, systems built to grow, and efficient, focused delivery">
-  </picture>
-</p>
-
-<br>
-
 <p align="center"><sub>THE STACK</sub></p>
 
 <h3 align="center"><big>Tools I work with.</big></h3>
@@ -73,4 +63,4 @@
   <a href="mailto:joedor7@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/email-card-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/email-card-light.svg"><img src="./assets/email-card-light.svg" width="300" alt="Email Jeff Dorsainvil"></picture></a>
 </p>
 
-<p align="center">Open to <strong>Product Engineer</strong> and <strong>Full-Stack TypeScript Engineer</strong> opportunities.</p>
+<p align="center">Open to <strong>Product Engineer</strong> and <strong>Full-Stack Engineer</strong> opportunities.</p>
